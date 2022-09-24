@@ -1,6 +1,4 @@
 # finite_element_method_for_poisson_eqs
 
-This projects solves Poisson equations using the finite element method. 
-The repository contains codes of a finite element solver for Poisson equations with dirichlet boundary conditions. 
+This repository contains codes of a finite element solver for Poisson equations for the computing special topic report (Hilary Term, 2018, Oxford Univeristy). 
 
-Last updated on 04/22/2018.
